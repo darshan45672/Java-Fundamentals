@@ -1,3 +1,5 @@
+/* Java Procedural-Program to calculate  */
+
 import java.util.Scanner;
 
 public class areaOfASquare {
