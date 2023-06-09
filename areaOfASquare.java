@@ -1,4 +1,4 @@
-/* Java Procedural-Program to calculate  */
+/* Java Procedural-Program to calculate area */
 
 import java.util.Scanner;
 
