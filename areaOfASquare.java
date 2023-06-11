@@ -10,6 +10,6 @@ public class areaOfASquare {  // creating a class small as file name
         Scanner sc = new Scanner(System.in); // creating a object sc of class Scanner 
 
         double a = sc.nextDouble();  //reading the user entered data from the console using the scanner object 
-        System.out.println("Area of the square is "+ (a*a));
+        System.out.println("Area of the square is "+ (a*a)); // displaying the area of the square using optimised output stream
     }    
 }
