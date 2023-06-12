@@ -1,3 +1,4 @@
+/* Program to calculate the average of n Natural numbers*/
 import java.util.Scanner;
 
 public class averageOfNaturalNumbers {
@@ -9,6 +10,6 @@ public class averageOfNaturalNumbers {
         for( long i =0; i<num;  i++){
             sum +=i;
         }
-        System.out.println("Average sum of Natural Numbers upto "+num+" = "+sum);
+        System.out.println("Average sum of Natural Numbers upto "+num+" = "+(sum/num));
     }
 }
