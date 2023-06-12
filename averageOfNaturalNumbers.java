@@ -1,4 +1,5 @@
 /* Program to calculate the average of n Natural numbers*/
+
 import java.util.Scanner;
 
 public class averageOfNaturalNumbers {
