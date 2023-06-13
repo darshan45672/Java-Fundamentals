@@ -2,7 +2,7 @@
 
 import java.util.Scanner;   // header file that contias classes of scanner 
 
-public class averageOfNaturalNumbers {  // creating a class small as file name
+public class averageOfNaturalNumbers {  // creating a class small as file nam
     public static void main(String[] args) {
         System.out.println("Enter a number:\t");
         Scanner sc = new Scanner(System.in);
