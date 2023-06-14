@@ -4,7 +4,8 @@ import java.util.Scanner;   // header file that contias classes of scanner
 
 public class averageOfNaturalNumbers {  // creating a class small as file name
     public static void main(String[] args) {  // main() of classs
-        System.out.println("Enter a number:\t");
+
+        System.out.println("Enter a number:\t"); // taking input from the user uisng Sout
         Scanner sc = new Scanner(System.in);
         long num = sc.nextLong();
         long sum =0;
