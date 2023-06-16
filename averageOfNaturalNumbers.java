@@ -9,6 +9,7 @@ public class averageOfNaturalNumbers {  // creating a class small as file name
         Scanner sc = new Scanner(System.in);  // creating a object sc of class Scanner 
         long num = sc.nextLong(); // reading the user entered data from the console using the scanner object
         long sum = 0 ;
+        
         for( long i =0; i<num;  i++){
             sum +=i;
         }
