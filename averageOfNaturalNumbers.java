@@ -8,7 +8,7 @@ public class averageOfNaturalNumbers {  // creating a class small as file name
         System.out.println("Enter a number:\t"); // taking input from the user uisng Sout
         Scanner sc = new Scanner(System.in);  // creating a object sc of class Scanner 
         long num = sc.nextLong(); // reading the user entered data from the console using the scanner object
-        long sum = 0 ; // initialising sum
+        long sum = 0 ; // initialising sum to
         
         for( long i =0; i<num;  i++){
             sum +=i;
