@@ -10,7 +10,6 @@ public class averageOfNaturalNumbers {  // creating a class small as file name
         long num = sc.nextLong(); // reading the user entered data from the console using the scanner object
         long sum = 0 ; // initialising sum to 0
         
-        
         for( long i =0; i<num;  i++){
             sum +=i;
         }
