@@ -20,6 +20,6 @@ public class biggestNumber {
                     big = a[i];
             } 
         }
-        System.out.println("Biggest number entered is : " + big );
+        //System.out.println("Biggest number entered is : " + big );
     }
 }
