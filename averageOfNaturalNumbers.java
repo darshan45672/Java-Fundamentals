@@ -13,6 +13,6 @@ public class averageOfNaturalNumbers {  // creating a class small as file name
         for( long i =0; i<num;  i++){ // loop
             sum +=i; // adding numbers
         }
-        System.out.println("Average sum of Natural Numbers upto "+num+" = "+(sum/num));
+        System.out.println("Average sum of Natural Numbers upto "+num+" = "+(sum/num)); // display 
     }
 }
