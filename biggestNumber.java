@@ -1,4 +1,4 @@
-// Progran to calculate the biggset number
+// Progran to find the biggset number
 import java.util.Scanner;
 
 public class biggestNumber {
