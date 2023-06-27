@@ -1,6 +1,6 @@
 /* Program to calculate the average of n Natural numbers*/
 
-import java.util.Scanner;   // header file that contias classes of scanner 
+import java.util.Scanner;   // header file that contians classes of scanner 
 
 public class averageOfNaturalNumbers {  // creating a class small as file name
     public static void main(String[] args) {  // main() of classs

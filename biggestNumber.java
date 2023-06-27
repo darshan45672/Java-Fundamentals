@@ -1,6 +1,6 @@
 // Progran to find the biggset number
 
-import java.util.Scanner;  // header file that 
+import java.util.Scanner;  // header file that contias classes of scanner 
 
 public class biggestNumber {
     public static void main(String[] args) {
