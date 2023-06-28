@@ -1,8 +1,8 @@
 // Progran to find the biggset number
 
-import java.util.Scanner;  // header file that contias classes of scanner 
+import java.util.Scanner;  // header file that contians classes of scanner 
 
-public class biggestNumber {
+public class biggestNumber {  // creating a public class biggestNu,ber
     public static void main(String[] args) {
         int big;
         System.out.println("Enter the number of elements:\t");
