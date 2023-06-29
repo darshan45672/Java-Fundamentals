@@ -5,6 +5,7 @@ import java.util.Scanner;  // header file that contians classes of scanner
 public class biggestNumber {  // creating a public class biggestNumber
 
     public static void main(String[] args) {  //start of main
+        
         int big;
         System.out.println("Enter the number of elements:\t");
         Scanner input = new Scanner(System.in);
