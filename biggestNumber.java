@@ -8,7 +8,7 @@ public class biggestNumber {  // creating a public class biggestNumber
 
         int big; // declaring the variable
 
-        System.out.println("Enter the number of elements:\t");  //
+        System.out.println("Enter the number of elements:\t");  // taking input from the user
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
 
