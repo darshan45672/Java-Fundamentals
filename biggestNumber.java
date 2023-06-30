@@ -9,8 +9,8 @@ public class biggestNumber {  // creating a public class biggestNumber
         int big; // declaring the variable
 
         System.out.println("Enter the number of elements:\t");  // taking input from the user
-        Scanner input = new Scanner(System.in); // storing the user entered data in
-        int num = input.nextInt();
+        Scanner input = new Scanner(System.in); 
+        int num = input.nextInt();  // storing the user entered data in
 
         System.out.println("Enter "+ num +" elements:");
         int a[] = new int[num];
