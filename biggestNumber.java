@@ -12,7 +12,7 @@ public class biggestNumber {  // creating a public class biggestNumber
         Scanner input = new Scanner(System.in); 
         int num = input.nextInt();  // storing the user entered data in variable num
 
-        System.out.println("Enter "+ num +" elements:");
+        System.out.println("Enter "+ num +" elements:"); // asking the user to entered the elements
         int a[] = new int[num];
         for (int i = 0; i < num; i++) {
             a[i] = input.nextInt();
