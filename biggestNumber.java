@@ -16,7 +16,7 @@ public class biggestNumber {  // creating a public class biggestNumber
         int a[] = new int[num];  // creating a array of integers named a
 
         for (int i = 0; i < num; i++) {
-            a[i] = input.nextInt();  // storing the data
+            a[i] = input.nextInt();  // storing the data int the array
         }
 
         for (int i = 0; i < num; i++) {
