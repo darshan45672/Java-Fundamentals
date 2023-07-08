@@ -19,6 +19,7 @@ public class biggestNumber {  // creating a public class biggestNumber
             a[i] = input.nextInt();  // storing the data int the array
         }
 
+        // checking the biggest number
         for (int i = 0; i < num; i++) {
             big = a[0];
             for (int j = 0; j < num; j++) {
