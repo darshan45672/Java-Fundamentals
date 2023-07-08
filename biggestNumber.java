@@ -14,8 +14,9 @@ public class biggestNumber {  // creating a public class biggestNumber
 
         System.out.println("Enter "+ num +" elements:"); // asking the user to entered the elements
         int a[] = new int[num];  // creating a array of integers named a
+
         for (int i = 0; i < num; i++) {
-            a[i] = input.nextInt();
+            a[i] = input.nextInt();  // takin
         }
 
         for (int i = 0; i < num; i++) {
