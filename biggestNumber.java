@@ -23,7 +23,7 @@ public class biggestNumber {  // creating a public class biggestNumber
         for (int i = 0; i < num; i++) {
             big = a[0]; // assiging first array element as big
             if (a[i] > big)  // checking the next element is bigger than big
-                big = a[i];
+                big = a[i];  // if true then assign big as the element present in that 
         }
         //System.out.println("Biggest number entered is : " + big );
     }
