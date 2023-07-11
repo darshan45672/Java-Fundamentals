@@ -6,7 +6,7 @@ public class biggestNumber {  // creating a public class biggestNumber
 
     public static void main(String[] args) {  //start of main
 
-        int big; // declaring the variable
+        int big =0 ; // declaring the variable
 
         System.out.println("Enter the number of elements:\t");  // taking input from the user
         Scanner input = new Scanner(System.in); 
@@ -25,6 +25,6 @@ public class biggestNumber {  // creating a public class biggestNumber
             if (a[i] > big)  // checking the next element is bigger than big
                 big = a[i];  // if true then assign big as the element present in that index
         }
-        //System.out.println("Biggest number entered is : " + big );
+        System.out.println("Biggest number entered is : " + big );
     }
 }
