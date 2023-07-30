@@ -25,7 +25,7 @@ public class biggestNumber {  // creating a public class biggestNumber
             if (a[i] > big)  // checking the next element is bigger than big
                 big = a[i];  // if true then assign big as the element present in that index
         }
-        
-        System.out.println("Biggest number entered is : " + big );
+
+        System.out.println("Biggest number entered is : " + big );  // display the biggest number
     }
 }
