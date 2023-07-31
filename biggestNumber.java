@@ -27,5 +27,6 @@ public class biggestNumber {  // creating a public class biggestNumber
         }
 
         System.out.println("Biggest number entered is : " + big );  // display the biggest number
+        
     }
 }
